@@ -21,3 +21,5 @@ frontend/.vite/
 # OS files
 .DS_Store
 Thumbs.db
+
+backend/node_modules/
